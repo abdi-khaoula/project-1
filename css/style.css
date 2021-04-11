@@ -21,6 +21,7 @@ body{
 }
 
 /* Liste */
+/* we use Grids in the 3D views , in 2D views like this we should use flex */
  .liste{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
